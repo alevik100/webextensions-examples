@@ -1,1 +1,5 @@
 node_modules
+# for cmd-scripts (build automation)
+*.build/
+*/mkzip.cmd
+!_cmd/mkzip.cmd
